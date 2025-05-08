@@ -19,7 +19,8 @@ Food Prices Data: Secondary data used for this analysis is the "Nigeria_food_pri
 ### Data cleaning/Preparation
 This included 
 - Data loading, handling null values, inspection and formatting using Excel using commands such as: -"find and replace", "remove duplicates", "filter"
-- indexing, refrencing and modeling the primary dataset using Power Query on Power BI.
+- indexing, refrencing and modeling the primary dataset using Power Query on Power BI. ![Power BI](https://github.com/user-attachments/assets/79e0405c-8063-4d02-b4e2-1305dc15a23d)
+
 
 ### Exploratory Data Analysis
 This involved answering the following questions
@@ -41,11 +42,23 @@ This included the use of Power BI new measure feature and visualization features
   
 ### Results/Findings
 -  Over 90% of the respondents have at one point or the other been affected by food insecurity in 2024
+  ![shortage frequency](https://github.com/user-attachments/assets/1320b98b-dbd0-4d30-9eaa-b87758fb2a1f)
+
 -  High food prices was the major cause of food insecurity for 51.72% of respondents
+  ![Reasons for shortage](https://github.com/user-attachments/assets/bb936697-450b-4348-a863-195dd95bdc6f)
+
 -  Despite a good  number of respondents being employed, 63.16% earn below minimum wage
--  High earning capacity did not necessarily translate to more food security
+   ![Earning capacity](https://github.com/user-attachments/assets/6b615ad2-31b5-4d96-ba7d-94a52b8fcee0)
+
+-  Higher earning capacity did not necessarily translate to more food security
+   ![Earning avove minimum wage](https://github.com/user-attachments/assets/b8cf3fb5-ba49-4f78-b787-b1134b541fdc)
+
 -  Food prices increased by an average of  26.32% within the first four months of 2024
+   ![Food prices](https://github.com/user-attachments/assets/ad6a8f2e-0840-48bd-897e-d1ae7553633c)
+
 -  Over 90% of respondents that had been affected  experienced several effects with stress and anxiety being the highest at 40.26%
+   ![Effects on households](https://github.com/user-attachments/assets/2f42f4cb-b6dd-40da-8039-359bb107ef05)
+
 - 66.67% of respondent had no support, 61.47% of those who got support came from friends and families.
 
 ### Recommendations 
